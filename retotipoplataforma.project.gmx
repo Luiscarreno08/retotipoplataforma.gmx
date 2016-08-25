@@ -19,6 +19,7 @@
     <sprite>sprites\sprite12</sprite>
     <sprite>sprites\sprite14</sprite>
     <sprite>sprites\sprite15</sprite>
+    <sprite>sprites\sprite19</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background2</background>
@@ -31,9 +32,10 @@
     <object>objects\obj_enemigo</object>
     <object>objects\obj_enemigonocae</object>
     <object>objects\obj_paraprincipal</object>
-    <object>objects\obj_balaenemigo</object>
     <object>objects\obj_explosion_</object>
     <object>objects\obj_muro2</object>
+    <object>objects\obj_balaenemigo</object>
+    <object>objects\object13</object>
     <object>objects\obj_muro</object>
     <object>objects\obj_inicial</object>
   </objects>
